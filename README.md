@@ -1,3 +1,6 @@
+This is where I learnt DSP
+
+
 # ThinkDSP
 
 *Think DSP* is an introduction to Digital Signal Processing in Python.
